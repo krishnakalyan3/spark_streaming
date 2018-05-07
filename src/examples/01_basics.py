@@ -39,5 +39,6 @@ if __name__ == "__main__":
 
 
 # nc -lk 9999
-# spark-submit 01_basics.py
 # decrease the verbosity by editing conf/log4j.properties log4j.rootCategory=ERROR, console
+# spark-submit 01_basics.py
+
